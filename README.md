@@ -1,5 +1,10 @@
 # anderScore Vortrag BPI 2022 - Kursmaterialien
 
+Links: 
+- [Flyer](RecruitFlyer.pdf)
+- [anderScore.com](https://www.anderscore.com/)
+- [Job's bei anderScore](https://anderscore.com/jobs/)
+
 ## Wie würdet ihr bei der Entwicklung dieser Anwendung vorgehen
 -	Anforderungsanalyse, welche Daten erfasst werden sollen
 -	Wie soll der Kunde auf die Anwendung zugreifen können
@@ -22,3 +27,14 @@
 -	Use-Case-Diagramm
 -	UI-Design
 -	Prototypen
+
+## Architekturmodell
+- [Architekturmodell draw.io](Architekturmodell.drawio)
+
+![Architekturmodell](Architekturmodell.png)
+
+
+## ER-Diagramm
+- [ER-Diagramm draw.io](ER-Diagramm.drawio)
+
+![ER-Diagramm](ER-Diagramm.png)
