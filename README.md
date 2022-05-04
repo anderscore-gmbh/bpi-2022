@@ -1,7 +1,10 @@
 # anderScore Vortrag BPI 2022 - Kursmaterialien
 
-Links: 
+Materialien:
 - [Flyer](RecruitFlyer.pdf)
+- [Präsentation](Praesentation.pdf)
+
+Links: 
 - [anderScore.com](https://www.anderscore.com/)
 - [Job's bei anderScore](https://anderscore.com/jobs/)
 
@@ -30,11 +33,13 @@ Links:
 
 ## Architekturmodell
 - [Architekturmodell draw.io](Architekturmodell.drawio)
+- [Architekturmodell png](Architekturmodell.png)
 
 ![Architekturmodell](Architekturmodell.png)
 
 
 ## ER-Diagramm
 - [ER-Diagramm draw.io](ER-Diagramm.drawio)
+- [ER-Diagramm png](ER-Diagramm.png)
 
 ![ER-Diagramm](ER-Diagramm.png)
